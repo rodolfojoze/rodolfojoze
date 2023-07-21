@@ -1,16 +1,20 @@
-### Hi there 👋
+<style>
+  /* Definindo as cores do texto e links */
+  body {
+    color: #333; /* Cinza escuro para o texto */
+  }
 
-<!--
-**rodolfojoze/rodolfojoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  a {
+    color: #6e8b6b; /* Verde suave para os links */
+  }
 
-Here are some ideas to get you started:
+  /* Personalizando o header */
+  .p-header {
+    background-color: #f0f0f0; /* Cinza claro para o fundo do header */
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  /* Personalizando a barra de navegação */
+  .UnderlineNav-body {
+    border-bottom-color: #6e8b6b; /* Verde suave para a borda inferior da barra de navegação */
+  }
+</style>
